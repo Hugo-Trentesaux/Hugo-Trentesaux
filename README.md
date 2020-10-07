@@ -10,10 +10,14 @@ Favourite languages:
 - C
 - Web
 
-[Personal website](https://trentesaux.fr)
+[Visit my personal website](https://trentesaux.fr)
 
 Other code hosting services:
 
 - gitlab.com/Hugo-Trentesaux
 - git.42l.fr/HugoTrentesaux
 - git.duniter.org/HugoTrentesaux
+
+Preferences:
+
+Manjaro / Gnome / vscodium
