@@ -2,40 +2,40 @@
 
 I am Hugo Trentesaux, PhD in physics. I think that code used in the context of science must be published since it's part of the scientific approach. I think that code written in the context of public research must lie under a public license as soon as part of the funding is public. I think the principles of [free software](https://www.gnu.org/philosophy/free-sw.en.html) should be applied to science as well.
 
-This is my page on GitHub, a proprietary service owned by Microsoft. I use it mainly to contribute to projects which are hosted there. You can find my other main public repos at the following addresses :
+This is my page on <img width="12" src="https://simpleicons.org/icons/github.svg"/> GitHub, a proprietary service owned by Microsoft. I use it mainly to contribute to projects which are hosted there. You can find my other main public repos at the following addresses :
 
-- https://git.42l.fr/HugoTrentesaux (personal one)
-- https://git.duniter.org/HugoTrentesaux (Duniter project)
-- https://gitlab.com/Hugo-Trentesaux (old one)
-- https://framagit.org/HugoTrentesaux (at Framasoft)
+- <img width="12" src="https://simpleicons.org/icons/gitea.svg"/> https://git.42l.fr/HugoTrentesaux (personal one)
+- <img width="12" src="https://simpleicons.org/icons/gitlab.svg"/> https://git.duniter.org/HugoTrentesaux (Duniter project)
+- <img width="12" src="https://simpleicons.org/icons/gitlab.svg"/> https://gitlab.com/Hugo-Trentesaux (old one)
+- <img width="12" src="https://simpleicons.org/icons/gitlab.svg"/> https://framagit.org/HugoTrentesaux (at Framasoft)
 
 ### Techs
 
 I am self-taught in computer science (in the spirit of [teachyourselfcs.com](https://teachyourselfcs.com/)). I like contributing to other's projects and programming small proofs-of-concept when I have an idea. My favourite languages are:
 
-- Julia
-- Rust
-- Python
+- <img width="12" src="https://simpleicons.org/icons/julia.svg"/> [Julia](https://julialang.org/)
+- <img width="12" src="https://simpleicons.org/icons/rust.svg"/> [Rust](https://www.rust-lang.org/)
+- <img width="12" src="https://simpleicons.org/icons/python.svg"/> [Python](https://www.python.org/)
 
 I'm familiar with these langages:
 
-- HTML/CSS/JS
-- C
-- C#
-- Dart
+- <img width="12" src="https://simpleicons.org/icons/html5.svg"/><img width="12" src="https://simpleicons.org/icons/css3.svg"/><img width="12" src="https://simpleicons.org/icons/javascript.svg"/> HTML/CSS/JS
+- <img width="12" src="https://simpleicons.org/icons/c.svg"/> C
+- <img width="12" src="https://simpleicons.org/icons/csharp.svg"/> C#
+- <img width="12" src="https://simpleicons.org/icons/dart.svg"/> Dart
 
 I'm familiar with these softwares / frameworks / tools ...:
 
-- GNU/Linux
-- VSCodium
-- Git (you guessed it)
-- VueJS
-- Flutter
-- Django
-- SQL
-- Blender
-- Inkscape
-- GIMP
+- <img width="12" src="https://simpleicons.org/icons/gnu.svg"/><img width="12" src="https://simpleicons.org/icons/linux.svg"/> GNU/Linux
+- <img width="12" src="https://simpleicons.org/icons/visualstudiocode.svg"/> VSCodium
+- <img width="12" src="https://simpleicons.org/icons/git.svg"/> Git (you guessed it)
+- <img width="12" src="https://simpleicons.org/icons/vuedotjs.svg"/> VueJS
+- <img width="12" src="https://simpleicons.org/icons/flutter.svg"/> Flutter
+- <img width="12" src="https://simpleicons.org/icons/django.svg"/> Django
+- <img width="12" src="https://simpleicons.org/icons/mariadb.svg"/> SQL
+- <img width="12" src="https://simpleicons.org/icons/blender.svg"/> Blender
+- <img width="12" src="https://simpleicons.org/icons/inkscape.svg"/> Inkscape
+- <img width="12" src="https://simpleicons.org/icons/gimp.svg"/> GIMP
 
 I hate:
 
