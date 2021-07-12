@@ -26,21 +26,21 @@ I'm familiar with these langages:
 
 I'm familiar with these softwares / frameworks / tools ...:
 
-- <img width="12" src="https://simpleicons.org/icons/gnu.svg"/><img width="12" src="https://simpleicons.org/icons/linux.svg"/> GNU/Linux
+- <img width="12" src="https://simpleicons.org/icons/gnu.svg"/><img width="12" src="https://simpleicons.org/icons/linux.svg"/> GNU/Linux <img width="12" src="https://simpleicons.org/icons/archlinux.svg"/><img width="12" src="https://simpleicons.org/icons/debian.svg"/>
+- <img width="12" src="https://simpleicons.org/icons/apache.svg"/><img width="12" src="https://simpleicons.org/icons/nginx.svg"/> Apache/Nginx
 - <img width="12" src="https://simpleicons.org/icons/visualstudiocode.svg"/> VSCodium
 - <img width="12" src="https://simpleicons.org/icons/git.svg"/> Git (you guessed it)
 - <img width="12" src="https://simpleicons.org/icons/vuedotjs.svg"/> VueJS
+- <img width="12" src="https://simpleicons.org/icons/d3dotjs.svg"/> D3JS
 - <img width="12" src="https://simpleicons.org/icons/flutter.svg"/> Flutter
 - <img width="12" src="https://simpleicons.org/icons/django.svg"/> Django
 - <img width="12" src="https://simpleicons.org/icons/mariadb.svg"/> SQL
-- <img width="12" src="https://simpleicons.org/icons/blender.svg"/> Blender
-- <img width="12" src="https://simpleicons.org/icons/inkscape.svg"/> Inkscape
-- <img width="12" src="https://simpleicons.org/icons/gimp.svg"/> GIMP
+- and <img width="12" src="https://simpleicons.org/icons/blender.svg"/>, <img width="12" src="https://simpleicons.org/icons/inkscape.svg"/>, <img width="12" src="https://simpleicons.org/icons/gimp.svg"/>, <img width="12" src="https://simpleicons.org/icons/kdenlive.svg"/>...
 
 I hate:
 
 - Matlab (even I'm good at it)
-- LabView (some people consider it a langage)
+- LabView (some people consider it a language)
 - Windows (except WSL which is fine even it suffers from running on ntfs) / OSX
 
 ### Projects
@@ -50,4 +50,6 @@ Here you can find a list of some of my least prototypical projects (but still):
 - https://github.com/LaboJeanPerrin/easyRLS (closed source !) analysis pipeline in Matlab unfortunately coded on a table corner
 - https://github.com/LJPZebra/zebrain a script collection and vuejs app to visualize zebrafish brain regions over custom background
 - https://git.42l.fr/HugoTrentesaux/animwotmap an animated graph visualization of the ğ1 web of trust
-- https://git.duniter.org/HugoTrentesaux/jucube/ a notebook series targeting beginners to social graph analysis 
+- https://git.duniter.org/HugoTrentesaux/jucube/ a notebook series targeting beginners to social graph analysis
+
+I wish I could work full time on a more ambitious project, but as a hobby, I prefer working on multiple smaller proofs of concepts.
