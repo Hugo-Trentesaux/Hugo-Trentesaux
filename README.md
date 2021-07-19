@@ -48,6 +48,7 @@ I hate:
 Here you can find a list of some of my least prototypical projects (but still):
 
 - https://github.com/LaboJeanPerrin/easyRLS (closed source!) analysis pipeline in Matlab unfortunately coded on a table corner
+- https://github.com/Hugo-Trentesaux/these a numerical simulation for thermal lens effect induced by powerfull Gaussian beam
 - https://github.com/LJPZebra/zebrain a script collection and vuejs app to visualize zebrafish brain regions over custom background
 - https://git.42l.fr/HugoTrentesaux/animwotmap an animated graph visualization of the ğ1 web of trust
 - https://git.duniter.org/HugoTrentesaux/jucube/ a notebook series targeting beginners to social graph analysis
