@@ -47,9 +47,21 @@ I hate:
 
 Here you can find a list of some of my least prototypical projects (but still):
 
-- https://github.com/LaboJeanPerrin/easyRLS (closed source !) analysis pipeline in Matlab unfortunately coded on a table corner
+- https://github.com/LaboJeanPerrin/easyRLS (closed source!) analysis pipeline in Matlab unfortunately coded on a table corner
 - https://github.com/LJPZebra/zebrain a script collection and vuejs app to visualize zebrafish brain regions over custom background
 - https://git.42l.fr/HugoTrentesaux/animwotmap an animated graph visualization of the ğ1 web of trust
 - https://git.duniter.org/HugoTrentesaux/jucube/ a notebook series targeting beginners to social graph analysis
 
 I wish I could work full time on a more ambitious project, but as a hobby, I prefer working on multiple smaller proofs of concepts.
+
+### Contributions
+
+I did multiple minor contributions to several projects. This shows no more that I can read code but this still can be good to notice.
+
+- <a href="https://git.duniter.org/nodes/rust/duniter-rs/"><img width="12" src="https://simpleicons.org/icons/git.svg"/> Dunitrust</a>, a discontinued Rust implementation of Duniter. I worked on the p2p protocol with [Éloïs](https://git.duniter.org/librelois). [[doc, issues, MR](https://git.duniter.org/nodes/rust/duniter-rs/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=HugoTrentesaux)]
+- <a href="https://git.duniter.org/clients/python/duniterpy/"><img width="12" src="https://simpleicons.org/icons/git.svg"/> DuniterPy</a>, a Python client library for Duniter nodes. I added the ability to read local blockchain JSON archive. [[MR-124](https://git.duniter.org/clients/python/duniterpy/-/merge_requests/124)]
+- <a href="https://framagit.org/ZettaScript/forceatlas2-rs/"><img width="12" src="https://simpleicons.org/icons/git.svg"/> forceatlas2-rs</a>,  a Rust implementation of ForceAtlas2 algorithm. I mainly read [tuxmain](https://txmn.tk/)'s code to find the bugs in it.
+- <a href="https://git.duniter.org/clients/gecko"><img width="12" src="https://simpleicons.org/icons/git.svg"/> Ğecko</a>, a Duniter client in Dart/Flutter with Rust bindings. I mainly worked in peer programming to help refactor.
+- <a href="https://git.duniter.org/clients/rust/gcli"><img width="12" src="https://simpleicons.org/icons/git.svg"/> Gcli</a>, a command line interface client for Duniter GraphQL API. I added the "member count" query. [[commit](https://git.duniter.org/clients/rust/gcli/-/commit/45da934be4a23ceeef8abcd53a90536ddc0b6a19)]
+
+I currently read more code than I write but would like to balance this in the future. 
