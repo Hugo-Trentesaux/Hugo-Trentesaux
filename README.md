@@ -43,6 +43,10 @@ I hate:
 - LabView (some people consider it a language)
 - Windows (except WSL which is fine even it suffers from running on ntfs) / OSX
 
+### Currently working on
+
+I'm currently working at CESBIO lab on [Iota2](https://docs.iota2.net/), a remote sensing data processing chain used to produce large scale ground usage classification. (python, dask, pytorch, scikit, ...) 
+
 ### Projects
 
 Here you can find a list of some of my least prototypical projects (but still):
